@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me
+
+Hi! I'm currently working as a software engineering intern and started these projects to gain more experience in my free time. Feel free to check back in and see my progress!!
 
 <!--
 **tas223/tas223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
