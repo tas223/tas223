@@ -1,11 +1,6 @@
 # Hi, I'm Aishani!
 
-I'm a full-stack developer specializing in JavaScript (Node.js/React.js), Flask, SQL, and Python.
-
-Currently, I'm working full-time as a software engineering intern and started these projects to gain more experience in my free time. 
-Having a strong background in web development and app development, I'm now focusing on back-end projects in Python to expand my expertise.
-
-Feel free to explore my repositories or check back in and see my progress!!
+I'm a student interested in software engineering and data science! I've gained a lot of full-stack development experience through my activities and am coding up side projects to gain experience in new fields. Currently, I'm working on a more data-focused project to grow my skillset!
 
 ## Projects
 - Chess: A client-server chess game built in Python with the socket and threading modules. This project leverages pygame for the GUI and enables concurrent gameplay on the server. 
